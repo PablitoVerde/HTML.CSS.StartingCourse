@@ -4,7 +4,7 @@
 }
 
 .container {
-    width: 1140;
+    width: 1140px;
     margin: 0 auto;
 }
 
@@ -36,7 +36,7 @@
 
 .main__content__infoblock {
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 .main__content_parts {
@@ -101,4 +101,5 @@
 .contact_map {
     display: flex;
     justify-content: center;
+    width: 100%;
 }
